@@ -1,3 +1,5 @@
+#Crie um algoritmo que leia um número e mostre o seu dobro, seu triplo e sua raiz quadrada
+
 from cmath import sqrt
 
 number = int(input("Digite um número: "))

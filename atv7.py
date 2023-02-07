@@ -1,6 +1,6 @@
+#Leia um programa que leia duas notas de um aluno e mostre sua média
+
 import cmath
-
-
 
 nota1 = float(input("Primeira nota do aluno: "))
 nota2 = float(input("Segunda nota do aluno: "))

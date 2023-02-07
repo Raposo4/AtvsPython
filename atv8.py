@@ -1,3 +1,5 @@
+#Faça um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros
+
 dist = float(input("Digite um distância em metros: "))
 print(f"A medida de 3.0m corresponde a: ")
 print(f"{dist/1000}km")
